@@ -1,4 +1,5 @@
 # BMI-Calculator
+# James O Keeffe
 Java BMI Calculator
 
 
